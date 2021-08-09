@@ -238,7 +238,11 @@ fig:normal-rule-of-thumb
 tab:logten
 fig:infer-map
 fig:SEATAC
+tab:unnamed-chunk-654
+tab:unnamed-chunk-659
 fig:unnamed-chunk-662
+tab:unnamed-chunk-669
+tab:comparing-n-3-solution
 fig:non-linear2
 fig:model1residualshist2
 fig:numxplot62
